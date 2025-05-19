@@ -1,6 +1,6 @@
 # 🎯 Customer Segmentation using K-Means Clustering
 
-![Customer Segmentation](https://raw.githubusercontent.com/your-username/Customer-Segmentation-Using-K-Means/main/images/segmentation-banner.png)
+![Customer Segmentation](https://raw.githubusercontent.com/dreamerboy92/Customer-Segmentation-Using-K-Means/main/images/segmentation-banner.png)
 
 This project uses **K-Means Clustering**, an unsupervised machine learning algorithm, to group customers into different segments based on their annual income and spending behavior. This segmentation helps businesses understand their customers better and create targeted marketing strategies.
 
@@ -19,27 +19,25 @@ This allows businesses to personalize interactions and offers for different segm
 
 ---
 
----
-
 ## 📊 Project Workflow
 
-1. Load and explore customer dataset
-2. Data cleaning and preprocessing
-3. Use the Elbow Method to choose the best number of clusters (K)
-4. Apply K-Means algorithm
-5. Visualize the clusters
+1. Load and explore customer dataset  
+2. Data cleaning and preprocessing  
+3. Use the Elbow Method to choose the best number of clusters (K)  
+4. Apply K-Means algorithm  
+5. Visualize the clusters  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Jupyter Notebook  
 
 ---
 
@@ -47,21 +45,21 @@ This allows businesses to personalize interactions and offers for different segm
 
 ### 🔍 Elbow Method
 
-![Elbow Plot](https://raw.githubusercontent.com/your-username/Customer-Segmentation-Using-K-Means/main/images/elbow_plot.png)
+![Elbow Plot](https://raw.githubusercontent.com/dreamerboy92/Customer-Segmentation-Using-K-Means/main/images/elbow_plot.png)
 
 ---
 
 ### 👥 Clustered Customer Segments
 
-![Cluster Plot](https://raw.githubusercontent.com/your-username/Customer-Segmentation-Using-K-Means/main/images/cluster_plot.png)
+![Cluster Plot](https://raw.githubusercontent.com/dreamerboy92/Customer-Segmentation-Using-K-Means/main/images/cluster_plot.png)
 
 ---
 
 ## 💡 Key Takeaways
 
-- Customers can be grouped into 3–5 main clusters.
-- High-income but low-spending customers form a unique cluster.
-- Helps in designing targeted promotions and loyalty programs.
+- Customers can be grouped into 3–5 main clusters.  
+- High-income but low-spending customers form a unique cluster.  
+- Helps in designing targeted promotions and loyalty programs.  
 
 ---
 
@@ -70,5 +68,4 @@ This allows businesses to personalize interactions and offers for different segm
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Customer-Segmentation-Using-K-Means.git
-
+git clone https://github.com/dreamerboy92/Customer-Segmentation-Using-K-Means.git
