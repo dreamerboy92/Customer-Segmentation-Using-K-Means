@@ -1,6 +1,6 @@
 # 🎯 Customer Segmentation using K-Means Clustering
 
-![Customer Segmentation](https://raw.githubusercontent.com/dreamerboy92/Customer-Segmentation-Using-K-Means/main/images/segmentation-banner.png)
+![Customer Segmentation](https://via.placeholder.com/900x300.png?text=Customer+Segmentation+Banner)
 
 This project uses **K-Means Clustering**, an unsupervised machine learning algorithm, to group customers into different segments based on their annual income and spending behavior. This segmentation helps businesses understand their customers better and create targeted marketing strategies.
 
@@ -45,13 +45,13 @@ This allows businesses to personalize interactions and offers for different segm
 
 ### 🔍 Elbow Method
 
-![Elbow Plot](https://raw.githubusercontent.com/dreamerboy92/Customer-Segmentation-Using-K-Means/main/images/elbow_plot.png)
+![Elbow Plot](https://via.placeholder.com/600x400.png?text=Elbow+Plot)
 
 ---
 
 ### 👥 Clustered Customer Segments
 
-![Cluster Plot](https://raw.githubusercontent.com/dreamerboy92/Customer-Segmentation-Using-K-Means/main/images/cluster_plot.png)
+![Cluster Plot](https://via.placeholder.com/600x400.png?text=Cluster+Plot)
 
 ---
 
