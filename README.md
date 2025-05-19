@@ -1,7 +1,6 @@
 # 🎯 Customer Segmentation using K-Means Clustering
 
-![Customer Segmentation](https://via.placeholder.com/1000x300.png?text=Customer+Segmentation+Project+Banner)
-
+![Customer Segmentation](https://via.placeholder.com/900x300.png?text=Customer+Segmentation+Banner)
 This project uses **K-Means Clustering**, an unsupervised machine learning algorithm, to group customers into different segments based on their annual income and spending behavior. This segmentation helps businesses understand their customers better and create targeted marketing strategies.
 
 ---
